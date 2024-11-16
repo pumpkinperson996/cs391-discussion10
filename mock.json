@@ -1,0 +1,39 @@
+{
+  "mockPosts": [
+    {
+      "id": "id1",
+      "title": "favorite class",
+      "content": "cs391 is my favorite class. what's your favorite class?",
+      "upvotes": 20,
+      "downvotes": 1
+    },
+    {
+      "id": "id2",
+      "title": "restaurants in boston",
+      "content": "what are some restaurants you recommend that are close to campus?",
+      "upvotes": 12,
+      "downvotes": 6
+    },
+    {
+      "id": "id3",
+      "title": "post-grad",
+      "content": "i can't wait to graduate. what are your post-graduation plans?",
+      "upvotes": 22,
+      "downvotes": 28
+    },
+    {
+      "id": "id4",
+      "title": "cs class recs",
+      "content": "what are some easy CS classes to fulfill group D?",
+      "upvotes": 13,
+      "downvotes": 9
+    },
+    {
+      "id": "id5",
+      "title": "study spots",
+      "content": "what are some nice study spots at BU? i like cilse",
+      "upvotes": 20,
+      "downvotes": 3
+    }
+  ]
+}
